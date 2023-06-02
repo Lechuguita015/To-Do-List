@@ -2,4 +2,13 @@
     <string name="app_name">To-Do List</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_skip">Skip</string>
+    <string name="string_finish">Finish</string>
+    <string name="string_next">Next</string>
+    <string name="tittle_onboarding_1">New tasks</string>
+    <string name="descrption_onboarding_1">Add new tasks for your day or for a week full of homework, you can even add notes.</string>
+    <string name="descrption_onboarding_2">You can set reminders so that you don\'t forget to do your tasks</string>
+    <string name="descrption_onboarding_3">Bad organization? Don\'t know where your notes are? With To-Do List everything will be easier.</string>
+    <string name="tittle_onboarding_3">To-Do List</string>
+    <string name="tittle_onboarding_2">In time !!</string>
 </resources>
